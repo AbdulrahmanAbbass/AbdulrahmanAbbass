@@ -1,7 +1,7 @@
 [![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hlMHRka2N2MzZrcGI3ZDZmamY4OTZiaGQwdXA4aG8xM3QzYnhvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)]
 <h1 align="center">Hi 👋, I'm Abdulrahman Abbass</h1>
 <h3 align="center">BI Developer & Data Analyst from Egypt</h3>
-<img align="right" alt ="coding" width="400 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hlMHRka2N2MzZrcGI3ZDZmamY4OTZiaGQwdXA4aG8xM3QzYnhvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif>
+
 
 - 🔭 I’m currently working on **[Excel-SQL-Power bi-Tableau-Python]**
 
